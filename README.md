@@ -70,9 +70,6 @@
   A sleek, modern portfolio built with **Next.js**, **Tailwind CSS**, and **Shadcn UI**.  
   [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/AbdlrhmanSaid/portfolio)
 
-- **[Project Name]**  
-  A brief description of another project. Highlight tech used and link to repo or demo.  
-  [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/AbdlrhmanSaid/project-repo)
 
 ---
 
